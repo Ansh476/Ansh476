@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh476" alt="ansh476" /></a> </p>
 
-- 🔭 I’m currently working on **React and advance css**
-
 - ✨I'm a **AI/ML enthusiast**
 
 - 📫 How to reach me **anshsarfare16@gmail.com**
